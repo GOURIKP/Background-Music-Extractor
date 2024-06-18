@@ -85,8 +85,7 @@ The dataset used in this project is the [Indian Music Genre Dataset](https://www
 ## Files
 
 - `extract_features.py`: Script to extract audio features.
-- `gmm_clustering.py`: Script to perform GMM clustering.
-- `extract_background_music.py`: Script to extract background music using Spleeter.
+- `gmm_and_extract.py`: Script to perform GMM clustering and extract background music using Spleeter.
 - `post_process_audio.py`: Script to post-process the extracted background music.
 - `visualize_clusters.py`: Script to visualize the clusters using PCA and t-SNE.
 - `audio_features.csv`: Extracted audio features.
